@@ -1,0 +1,14 @@
+module:MathUtils
+mathUtils
+mathUtils.calculus
+mathUtils.calculus.complex
+mathUtils.calculus.complex.annot
+mathUtils.compiler
+mathUtils.compiler.complex
+mathUtils.compiler.real
+mathUtils.dev
+mathUtils.linear
+mathUtils.numbers
+mathUtils.plot
+mathUtils.plot.complex
+mathUtils.probability
